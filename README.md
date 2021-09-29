@@ -2,7 +2,7 @@
 Analyze roblox exploiting scripts and reverse engineer them. Usefull if you are trying to analyze malicious obfuscated scripts.
 
 Instructions:
-1. Execute Script-Analyzer.lua in a roblox game (synapse only)
+1. Execute Script-Analyzer.lua in a roblox game (script-ware only)
 2. Execute scripts you want to analyze
 
 Features:
@@ -15,7 +15,6 @@ All commands are followed by a second argument. The second argument is always a 
 - namecall - Logs all namecalls that are invoked by the script.
 - index - Logs all indexes that are invoked by the script.
 - _gtable - Logs all changes made to the _G table.
-- syntable - Logs all changes made to the syn table.
 
 Example: http true/http false
 
