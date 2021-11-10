@@ -2,7 +2,7 @@
 Analyze roblox exploiting scripts and reverse engineer them. Usefull if you are trying to analyze malicious obfuscated scripts.
 
 Instructions:
-1. Execute Script-Analyzer.lua in a roblox game (script-ware only)
+1. Execute Script-Analyzer.lua in a roblox game (synapse x only)
 2. Execute scripts you want to analyze
 
 Features:
